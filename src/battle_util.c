@@ -9468,7 +9468,7 @@ static inline u32 CalcMoveBasePowerAfterModifiers(u32 move, u32 battlerAtk, u32 
         break;
     case ABILITY_MEMBRANE:
         if (moveType == TYPE_BUG)
-            modifier = uq4_12_multiply(modifier, UQ_4_12(9));
+            modifier = uq4_12_multiply(modifier, UQ_4_12(1.5));
         break;
     case ABILITY_PROTOSYNTHESIS:
         {
