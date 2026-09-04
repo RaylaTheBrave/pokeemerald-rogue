@@ -309,7 +309,7 @@ static const u8 sFireManeDescription[] = _("Ups Fire-type moves.");
 
 static const u8 sForecastPriorityDescription[] = _("Weather moves go first.");
 static const u8 sDragonFlyDescription[] = _("Turns Dragon into Bug +STAB.");
-static const u8 sMembraneDescription[] = _("Ups Bug-type moves.");
+static const u8 sMembraneDescription[] = _("Powers up Bug-type moves.");
 
 #if B_EXPANDED_ABILITY_NAMES == TRUE
 const u8 gAbilityNames[ABILITIES_COUNT][ABILITY_NAME_LENGTH + 1] =
