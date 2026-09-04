@@ -6,10 +6,6 @@
   },
   "PerSpecies": {
     "SPECIES_FLYGON": {
-      "Types": [
-        "TYPE_GROUND",
-        "TYPE_DRAGON"
-      ],
       "Abilities": [
         "ABILITY_LEVITATE",
         "ABILITY_TINTED_LENS",
