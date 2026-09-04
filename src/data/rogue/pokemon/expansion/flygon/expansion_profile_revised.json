@@ -13,7 +13,7 @@
       "Abilities": [
         "ABILITY_LEVITATE",
         "ABILITY_TINTED_LENS",
-        "ABILITY_DRAGON_FLY"
+        "ABILITY_MEMBRANE"
       ],
       "BaseStats": {
         "HP": 90,
