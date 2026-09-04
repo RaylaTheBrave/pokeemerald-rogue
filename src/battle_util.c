@@ -9466,6 +9466,10 @@ static inline u32 CalcMoveBasePowerAfterModifiers(u32 move, u32 battlerAtk, u32 
         if (moveType == TYPE_ROCK)
             modifier = uq4_12_multiply(modifier, UQ_4_12(1.5));
         break;
+    case ABILITY_MEMBRANE:
+        if (moveType == TYPE_BUG)
+            modifier = uq4_12_multiply(modifier, UQ_4_12(1.5));
+        break;
     case ABILITY_PROTOSYNTHESIS:
         {
             u8 atkHighestStat = GetHighestStatId(battlerAtk);
