@@ -6,7 +6,7 @@
     "SPECIES_GOLISOPOD": {
       "Abilities": [
         "ABILITY_EMERGENCY_EXIT",
-        "ABILITY_NONE",
+        "ABILITY_SHELL_ARMOR",
         "ABILITY_ANGER_SHELL"
       ]
     }
