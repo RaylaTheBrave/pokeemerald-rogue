@@ -2,6 +2,15 @@
   "BuildSettings": {
     "TutorMoves": "MERGE"
   },
+  "PerSpecies": {
+    "SPECIES_GOLISOPOD": {
+      "Abilities": [
+        "ABILITY_EMERGENCY_EXIT",
+        "ABILITY_NONE",
+        "ABILITY_ANGER_SHELL"
+      ]
+    }
+  },
   "TutorMoves": [
     "MOVE_ROCK_CLIMB"
   ]
