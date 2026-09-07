@@ -310,7 +310,7 @@ static const u8 sFireManeDescription[] = _("Ups Fire-type moves.");
 static const u8 sForecastPriorityDescription[] = _("Weather moves go first.");
 static const u8 sDragonFlyDescription[] = _("Turns Dragon into Bug +STAB.");
 static const u8 sMembraneDescription[] = _("Powers up Bug-type moves.");
-static const u8 sEchoSoundDescription[] = _("Makes sound moves Dragon.");
+static const u8 sDragonsRoarDescription[] = _("Makes sound moves Dragon.");
 
 #if B_EXPANDED_ABILITY_NAMES == TRUE
 const u8 gAbilityNames[ABILITIES_COUNT][ABILITY_NAME_LENGTH + 1] =
@@ -637,7 +637,7 @@ const u8 gAbilityNames[ABILITIES_COUNT][ABILITY_NAME_LENGTH + 1] =
     [ABILITY_FORECAST_PRIORITY] = _("Instant Forecast"),
     [ABILITY_DRAGON_FLY] = _("Dragon Fly"),
     [ABILITY_MEMBRANE] = _("Membrane"),
-    [ABILITY_ECHOSOUND] = _("EchoSound"),
+    [ABILITY_DRAGONSROAR] = _("Dragon's Roar"),
 };
 #else   // 12 characters
 const u8 gAbilityNames[ABILITIES_COUNT][ABILITY_NAME_LENGTH + 1] =
@@ -964,7 +964,7 @@ const u8 gAbilityNames[ABILITIES_COUNT][ABILITY_NAME_LENGTH + 1] =
     [ABILITY_FORECAST_PRIORITY] = _("Instant Forecast"),
     [ABILITY_DRAGON_FLY] = _("Dragon Fly"),
     [ABILITY_MEMBRANE] = _("Membrane"),
-    [ABILITY_ECHOSOUND] = _("EchoSound"),
+    [ABILITY_DRAGONSROAR] = _("Dragon's Roar"),
 };
 #endif
 
@@ -1292,5 +1292,5 @@ const u8 *const gAbilityDescriptionPointers[ABILITIES_COUNT] =
     [ABILITY_FORECAST_PRIORITY] = sForecastPriorityDescription,
     [ABILITY_DRAGON_FLY] = sDragonFlyDescription,
     [ABILITY_MEMBRANE] = sMembraneDescription,
-    [ABILITY_ECHOSOUND] = sEchoSoundDescription,
+    [ABILITY_DRAGONSROAR] = sDragonsRoarDescription,
 };

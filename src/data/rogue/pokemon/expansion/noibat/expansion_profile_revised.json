@@ -1,0 +1,11 @@
+{
+  "PerSpecies": {
+    "SPECIES_NOIBAT": {
+      "Abilities": [
+        "ABILITY_SOUNDPROOF",
+        "ABILITY_INFILTRATOR",
+        "ABILITY_DRAGONSROAR"
+      ]
+    }
+  }
+}
