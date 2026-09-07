@@ -5865,6 +5865,10 @@ static u32 TrySetAteType(u16 move, u16 battlerAtk, u16 attackerAbility)
         if(gBattleMoves[move].soundMove)
             ateType = TYPE_WATER;
         break;
+    case ABILITY_DRAGONSROAR:
+        if(gBattleMoves[move].soundMove)
+            ateType = TYPE_DRAGON;
+        break;
     default:
         ateType = TYPE_NONE;
         break;
@@ -5996,6 +6000,10 @@ void SetTypeBeforeUsingMove(u32 move, u32 battlerAtk)
     else if (gBattleMoves[move].soundMove && attackerAbility == ABILITY_LIQUID_VOICE)
     {
         gBattleStruct->dynamicMoveType = TYPE_WATER | F_DYNAMIC_TYPE_SET;
+    }
+    else if (gBattleMoves[move].soundMove && attackerAbility == ABILITY_DRAGONSROAR)
+    {
+        gBattleStruct->dynamicMoveType = TYPE_DRAGON | F_DYNAMIC_TYPE_SET;
     }
     else if (move == MOVE_AURA_WHEEL && gBattleMons[battlerAtk].species == SPECIES_MORPEKO_HANGRY)
     {
