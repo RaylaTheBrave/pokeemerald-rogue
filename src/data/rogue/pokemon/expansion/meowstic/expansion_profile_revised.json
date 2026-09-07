@@ -3,7 +3,7 @@
     "TutorMoves": "MERGE"
   },
   "PerSpecies": {
-    "SPECIES_MEOWSTIC": {
+    "SPECIES_MEOWSTIC_MALE": {
       "BaseStats": {
         "HP": 74,
         "Attack": 48,
@@ -11,6 +11,21 @@
         "Speed": 104,
         "SpAttack": 93,
         "SpDefense": 81
+      }
+    },
+    "SPECIES_MEOWSTIC_MALE_MEGA": {
+      "Abilities": [
+        "ABILITY_PROTEAN",
+        "ABILITY_PROTEAN",
+        "ABILITY_PROTEAN"
+      ],
+      "BaseStats": {
+        "HP": 80,
+        "Attack": 40,
+        "Defense": 75,
+        "Speed": 125,
+        "SpAttack": 145,
+        "SpDefense": 135
       }
     }
   },
