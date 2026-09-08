@@ -15,9 +15,9 @@
     },
     "SPECIES_MEOWSTIC_MEGA": {
       "Abilities": [
-        "ABILITY_PROTEAN",
-        "ABILITY_PROTEAN",
-        "ABILITY_PROTEAN"
+        "ABILITY_PSYCHIC_SURGE",
+        "ABILITY_PSYCHIC_SURGE",
+        "ABILITY_PSYCHIC_SURGE"
       ],
       "BaseStats": {
         "HP": 80,
