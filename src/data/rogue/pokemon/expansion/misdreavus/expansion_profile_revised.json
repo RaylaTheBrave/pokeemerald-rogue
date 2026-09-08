@@ -4,6 +4,27 @@
     "TutorMoves": "MERGE",
     "CompetitiveSets": "MERGE"
   },
+  "PerSpecies": {
+    "SPECIES_MISDREAVUS": {
+      "Abilities": [
+        "ABILITY_LEVITATE",
+        "ABILITY_LEVITATE",
+        "ABILITY_MISTY_SURGE"
+      ],
+      "Types": [
+        "TYPE_FAIRY",
+        "TYPE_GHOST"
+      ],
+      "BaseStats": {
+        "HP": 60,
+        "Attack": 60,
+        "Defense": 60,
+        "Speed": 100,
+        "SpAttack": 100,
+        "SpDefense": 100
+      }
+    }
+  },
   "LevelUpMoves": [
     {
       "Move": "MOVE_GROWL",
