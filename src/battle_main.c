@@ -5997,6 +5997,10 @@ void SetTypeBeforeUsingMove(u32 move, u32 battlerAtk)
     {
         gBattleStruct->dynamicMoveType = TYPE_WATER | F_DYNAMIC_TYPE_SET;
     }
+    else if (gBattleMoves[move].soundMove && attackerAbility == ABILITY_DRAGONS_ROAR)
+    {
+        gBattleStruct->dynamicMoveType = TYPE_DRAGON | F_DYNAMIC_TYPE_SET;
+    }
     else if (move == MOVE_AURA_WHEEL && gBattleMons[battlerAtk].species == SPECIES_MORPEKO_HANGRY)
     {
         gBattleStruct->dynamicMoveType = TYPE_DARK | F_DYNAMIC_TYPE_SET;
