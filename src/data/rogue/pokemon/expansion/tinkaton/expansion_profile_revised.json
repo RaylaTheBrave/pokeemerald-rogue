@@ -1,0 +1,11 @@
+{
+  "PerSpecies": {
+    "SPECIES_TINKATON": {
+      "Abilities": [
+        "ABILITY_MOLD_BREAKER",
+        "ABILITY_OWN_TEMPO",
+        "ABILITY_HUGE_POWER"
+      ]
+    }
+  }
+}
