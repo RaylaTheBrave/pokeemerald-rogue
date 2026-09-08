@@ -5865,6 +5865,10 @@ static u32 TrySetAteType(u16 move, u16 battlerAtk, u16 attackerAbility)
         if(gBattleMoves[move].soundMove)
             ateType = TYPE_WATER;
         break;
+    case ABILITY_DRAGONS_ROAR:
+        if(gBattleMoves[move].soundMove)
+            ateType = TYPE_DRAGON;
+        break;
     default:
         ateType = TYPE_NONE;
         break;
