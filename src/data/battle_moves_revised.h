@@ -14912,10 +14912,10 @@ const struct BattleMove gBattleMoves_Revised[MOVES_COUNT_DYNAMAX] =
     [MOVE_GIGATON_HAMMER] =
     {
         .effect = EFFECT_HIT,
-        .power = 160,
+        .power = 100,
         .type = TYPE_STEEL,
         .accuracy = 100,
-        .pp = 5,
+        .pp = 10,
         .secondaryEffectChance = 0,
         .target = MOVE_TARGET_SELECTED,
         .priority = 0,
