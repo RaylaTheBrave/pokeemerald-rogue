@@ -9,19 +9,19 @@
       "Abilities": [
         "ABILITY_LEVITATE",
         "ABILITY_LEVITATE",
-        "ABILITY_FAIRY_AURA"
+        "ABILITY_CURSED_BODY"
       ],
       "Types": [
         "TYPE_FAIRY",
         "TYPE_GHOST"
       ],
       "BaseStats": {
-        "HP": 60,
-        "Attack": 60,
-        "Defense": 60,
-        "Speed": 125,
-        "SpAttack": 125,
-        "SpDefense": 125
+        "HP": 65,
+        "Attack": 65,
+        "Defense": 65,
+        "Speed": 120,
+        "SpAttack": 120,
+        "SpDefense": 120
       }
     }
   },
