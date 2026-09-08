@@ -1,0 +1,19 @@
+{
+  "PerSpecies": {
+    "SPECIES_NOIVERN": {
+      "Abilities": [
+        "ABILITY_SOUNDPROOF",
+        "ABILITY_INFILTRATOR",
+        "ABILITY_DRAGONS_ROAR"
+      ],
+      "BaseStats": {
+        "HP": 90,
+        "Attack": 70,
+        "Defense": 80,
+        "Speed": 130,
+        "SpAttack": 100,
+        "SpDefense": 80
+      }
+    }
+  }
+}
