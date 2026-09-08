@@ -1,0 +1,23 @@
+{
+  "BuildSettings": {
+    "LevelUpMoves": "MERGE"
+  },
+  "PerSpecies": {
+    "SPECIES_RELICANTH": {
+      "BaseStats": {
+        "HP": 120,
+        "Attack": 90,
+        "Defense": 140,
+        "Speed": 55,
+        "SpAttack": 40,
+        "SpDefense": 100
+      }
+    }
+  },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_WAVE_CRASH",
+      "Level": 44
+    }
+  ]
+}
