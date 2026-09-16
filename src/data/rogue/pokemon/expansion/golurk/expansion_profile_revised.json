@@ -14,6 +14,16 @@
         "SpAttack": 55,
         "SpDefense": 85
       }
+    },
+    "SPECIES_GOLURK_MEGA": {
+      "BaseStats": {
+        "HP": 125,
+        "Attack": 155,
+        "Defense": 115,
+        "Speed": 55,
+        "SpAttack": 55,
+        "SpDefense": 115
+      }
     }
   },
   "LevelUpMoves": [
