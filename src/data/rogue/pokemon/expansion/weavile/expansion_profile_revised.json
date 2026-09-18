@@ -2,6 +2,15 @@
   "BuildSettings": {
     "TutorMoves": "MERGE"
   },
+  "PerSpecies": {
+    "SPECIES_ WEAVILE": {
+      "Abilities": [
+        "ABILITY_PRESSURE",
+        "ABILITY_PRESSURE",
+        "ABILITY_TECHNICIAN"
+      ]
+    }
+  },
   "TutorMoves": [
     "MOVE_CRUNCH"
   ]
