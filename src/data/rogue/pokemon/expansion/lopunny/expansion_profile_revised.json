@@ -22,10 +22,10 @@
     "SPECIES_LOPUNNY_MEGA": {
       "BaseStats": {
         "HP": 65,
-        "Attack": 136,
+        "Attack": 156,
         "Defense": 94,
         "Speed": 135,
-        "SpAttack": 74,
+        "SpAttack": 54,
         "SpDefense": 96
       }
     }
