@@ -1,4 +1,7 @@
 {
+  "BuildSettings": {
+    "TutorMoves": "MERGE"
+  },
   "PerSpecies": {
     "SPECIES_QUAGSIRE": {
       "Abilities": [
@@ -15,5 +18,8 @@
         "SpDefense": 85
       }
     }
-  }
+  },
+  "TutorMoves": [
+    "MOVE_BULK_UP"
+  ]
 }
