@@ -1,0 +1,10 @@
+{
+ "PerSpecies": {
+    "SPECIES_STARAPTOR": {
+      "Types": [
+        "TYPE_FIGHTING",
+        "TYPE_FLYING"
+      ]
+    }
+  }
+}
