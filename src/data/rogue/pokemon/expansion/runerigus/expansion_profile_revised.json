@@ -11,7 +11,7 @@
         "ABILITY_SOLID_ROCK"
       ],
       "BaseStats": {
-        "HP": 68,
+        "HP": 88,
         "Attack": 105,
         "Defense": 145,
         "Speed": 30,
