@@ -16,12 +16,12 @@
         "TYPE_GHOST"
       ],
       "BaseStats": {
-        "HP": 65,
-        "Attack": 65,
-        "Defense": 65,
-        "Speed": 120,
-        "SpAttack": 120,
-        "SpDefense": 120
+        "HP": 70,
+        "Attack": 70,
+        "Defense": 70,
+        "Speed": 115,
+        "SpAttack": 115,
+        "SpDefense": 115
       }
     }
   },

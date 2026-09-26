@@ -19,9 +19,9 @@
         "HP": 60,
         "Attack": 60,
         "Defense": 60,
-        "Speed": 100,
-        "SpAttack": 100,
-        "SpDefense": 100
+        "Speed": 95,
+        "SpAttack": 95,
+        "SpDefense": 95
       }
     }
   },
