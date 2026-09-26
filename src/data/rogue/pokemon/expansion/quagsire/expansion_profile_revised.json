@@ -2,17 +2,17 @@
   "PerSpecies": {
     "SPECIES_QUAGSIRE": {
       "Abilities": [
-        "ABILITY_SAP_SIPPER",
+        "ABILITY_OBLIVIOUS",
         "ABILITY_WATER_ABSORB",
         "ABILITY_UNAWARE"
       ],
       "BaseStats": {
-        "HP": 130,
+        "HP": 160,
         "Attack": 85,
         "Defense": 95,
-        "Speed": 35,
-        "SpAttack": 65,
-        "SpDefense": 65
+        "Speed": 30,
+        "SpAttack": 35,
+        "SpDefense": 85
       }
     }
   }
