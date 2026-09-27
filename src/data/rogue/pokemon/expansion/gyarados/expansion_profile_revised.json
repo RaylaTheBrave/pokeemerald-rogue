@@ -1,0 +1,16 @@
+{
+ "PerSpecies": {
+    "SPECIES_GYARADOS": {
+      "Types": [
+        "TYPE_FAIRY",
+        "TYPE_GHOST"
+      ]
+    },
+    "SPECIES_GYARADOS_MEGA": {
+      "Types": [
+        "TYPE_WATER",
+        "TYPE_DRAGON"
+      ]
+    }
+  }
+}
