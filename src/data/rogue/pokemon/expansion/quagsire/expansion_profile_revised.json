@@ -1,7 +1,6 @@
 {
   "BuildSettings": {
-    "LevelUpMoves": "REPLACE",
-    "TutorMoves": "MERGE"
+    "LevelUpMoves": "REPLACE"
   },
   "PerSpecies": {
     "SPECIES_QUAGSIRE": {
