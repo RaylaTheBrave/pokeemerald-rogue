@@ -5,13 +5,32 @@
   "PerSpecies": {
     "SPECIES_ABSOL": {
       "BaseStats": {
-        "HP": 65,
+        "HP": 85,
         "Attack": 130,
         "Defense": 60,
-        "Speed": 85,
-        "SpAttack": 85,
+        "Speed": 95,
+        "SpAttack": 75,
         "SpDefense": 60
       }
+    },
+    "SPECIES_ABSOL_MEGA": {
+      "BaseStats": {
+        "HP": 85,
+        "Attack": 190,
+        "Defense": 70,
+        "Speed": 115,
+        "SpAttack": 75,
+        "SpDefense": 70
+      },
+      "Types": [
+        "TYPE_DARK",
+        "TYPE_FAIRY"
+      ],
+      "Abilities": [
+        "ABILITY_MAGIC_GUARD",
+        "ABILITY_MAGIC_GUARD",
+        "ABILITY_MAGIC_GUARD"
+      ]
     }
   },
   "TutorMoves": [
