@@ -7,12 +7,12 @@
   "PerSpecies": {
     "SPECIES_MEWTWO_MEGA_X": {
       "BaseStats": {
-        "HP": 120,
+        "HP": 106,
         "Attack": 190,
-        "Defense": 130,
+        "Defense": 140,
         "Speed": 130,
-        "SpAttack": 80,
-        "SpDefense": 130
+        "SpAttack": 74,
+        "SpDefense": 140
       },
       "Types": [
         "TYPE_PSYCHIC",
@@ -38,9 +38,9 @@
         "TYPE_PSYCHIC"
       ],
       "Abilities": [
-        "ABILITY_INSOMNIA",
-        "ABILITY_INSOMNIA",
-        "ABILITY_INSOMNIA"
+        "ABILITY_PROTEAN",
+        "ABILITY_PROTEAN",
+        "ABILITY_PROTEAN"
       ]
     }
   },

@@ -5,14 +5,24 @@
     "CompetitiveSets": "REPLACE"
   },
   "PerSpecies": {
+    "SPECIES_CLEFABLE": {
+      "BaseStats": {
+        "HP": 115,
+        "Attack": 60,
+        "Defense": 73,
+        "Speed": 60,
+        "SpAttack": 102,
+        "SpDefense": 100
+      }
+    },
     "SPECIES_CLEFABLE_MEGA": {
       "BaseStats": {
-        "HP": 110,
+        "HP": 115,
         "Attack": 50,
-        "Defense": 103,
+        "Defense": 115,
         "Speed": 70,
         "SpAttack": 135,
-        "SpDefense": 120
+        "SpDefense": 125
       }
     }
   },
