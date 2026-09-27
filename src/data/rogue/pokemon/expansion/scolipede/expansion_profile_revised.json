@@ -1,6 +1,14 @@
 {
  "PerSpecies": {
     "SPECIES_SCOLIPEDE_MEGA": {
+      "BaseStats": {
+        "HP": 80,
+        "Attack": 140,
+        "Defense": 149,
+        "Speed": 62,
+        "SpAttack": 55,
+        "SpDefense": 99
+      },
       "Types": [
         "TYPE_STEEL",
         "TYPE_POISON"
