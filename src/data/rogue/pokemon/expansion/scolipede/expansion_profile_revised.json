@@ -1,0 +1,10 @@
+{
+ "PerSpecies": {
+    "SPECIES_SCOLIPEDE_MEGA": {
+      "Types": [
+        "TYPE_STEEL",
+        "TYPE_POISON"
+      ]
+    }
+  }
+}
