@@ -4,6 +4,18 @@
     "TutorMoves": "MERGE",
     "CompetitiveSets": "REPLACE"
   },
+  "PerSpecies": {
+    "SPECIES_CLEFABLE_MEGA": {
+      "BaseStats": {
+        "HP": 110,
+        "Attack": 50,
+        "Defense": 103,
+        "Speed": 70,
+        "SpAttack": 135,
+        "SpDefense": 120
+      }
+    }
+  },
   "LevelUpMoves": [
     {
       "Move": "MOVE_SPOTLIGHT",
