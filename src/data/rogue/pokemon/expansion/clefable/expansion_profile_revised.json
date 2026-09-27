@@ -23,7 +23,12 @@
         "Speed": 70,
         "SpAttack": 135,
         "SpDefense": 125
-      }
+      },
+      "Abilities": [
+        "ABILITY_FRIEND_GUARD",
+        "ABILITY_FRIEND_GUARD",
+        "ABILITY_FRIEND_GUARD"
+      ]
     }
   },
   "LevelUpMoves": [
