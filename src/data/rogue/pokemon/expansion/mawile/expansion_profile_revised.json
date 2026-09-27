@@ -9,6 +9,16 @@
         "SpAttack": 55,
         "SpDefense": 60
       }
+    },
+    "SPECIES_MAWILE_MEGA": {
+      "BaseStats": {
+        "HP": 50,
+        "Attack": 115,
+        "Defense": 130,
+        "Speed": 50,
+        "SpAttack": 55,
+        "SpDefense": 100
+      }
     }
   }
 }
