@@ -1,9 +1,139 @@
 {
   "BuildSettings": {
+    "LevelUpMoves": "REPLACE",
     "TutorMoves": "MERGE",
     "CompetitiveSets": "MERGE"
   },
+  "PerSpecies": {
+    "SPECIES_MEWTWO_MEGA_X": {
+      "BaseStats": {
+        "HP": 120,
+        "Attack": 190,
+        "Defense": 130,
+        "Speed": 130,
+        "SpAttack": 80,
+        "SpDefense": 130
+      },
+      "Types": [
+        "TYPE_PSYCHIC",
+        "TYPE_STEEL"
+      ],
+      "Abilities": [
+        "ABILITY_DEFIANT",
+        "ABILITY_DEFIANT",
+        "ABILITY_DEFIANT"
+      ]
+    },
+    "SPECIES_MEWTWO_MEGA_Y": {
+      "BaseStats": {
+        "HP": 106,
+        "Attack": 100,
+        "Defense": 70,
+        "Speed": 160,
+        "SpAttack": 194,
+        "SpDefense": 150
+      },
+      "Types": [
+        "TYPE_PSYCHIC",
+        "TYPE_PSYCHIC"
+      ],
+      "Abilities": [
+        "ABILITY_INSOMNIA",
+        "ABILITY_INSOMNIA",
+        "ABILITY_INSOMNIA"
+      ]
+    }
+  },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_DISABLE",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_CONFUSION",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_SWIFT",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_LIFE_DEW",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_ANCIENT_POWER",
+      "Level": 8
+    },
+    {
+      "Move": "MOVE_PSYCHO_CUT",
+      "Level": 16
+    },
+    {
+      "Move": "MOVE_SAFEGUARD",
+      "Level": 24
+    },
+    {
+      "Move": "MOVE_AMNESIA",
+      "Level": 32
+    },
+    {
+      "Move": "MOVE_BULLET_PUNCH",
+      "Level": 38
+    },
+    {
+      "Move": "MOVE_AURA_SPHERE",
+      "Level": 40
+    },
+    {
+      "Move": "MOVE_METAL_BURST",
+      "Level": 42
+    },
+    {
+      "Move": "MOVE_PSYBLADE",
+      "Level": 46
+    },
+    {
+      "Move": "MOVE_PSYCHIC",
+      "Level": 48
+    },
+    {
+      "Move": "MOVE_CLOSE_COMBAT",
+      "Level": 50
+    },
+    {
+      "Move": "MOVE_POWER_SWAP",
+      "Level": 56
+    },
+    {
+      "Move": "MOVE_GUARD_SWAP",
+      "Level": 56
+    },
+    {
+      "Move": "MOVE_PSYSHIELD_BASH",
+      "Level": 60
+    },
+    {
+      "Move": "MOVE_MIST",
+      "Level": 64
+    },
+    {
+      "Move": "MOVE_PSYSTRIKE",
+      "Level": 72
+    },
+    {
+      "Move": "MOVE_RECOVER",
+      "Level": 80
+    },
+    {
+      "Move": "MOVE_FUTURE_SIGHT",
+      "Level": 88
+    }
+  ],
   "TutorMoves": [
+    "MOVE_BODY_PRESS",
+    "MOVE_IRON_HEAD",
+    "MOVE_METAL_CLAW",
     "MOVE_ROCK_CLIMB"
   ],
   "CompetitiveSets": [
