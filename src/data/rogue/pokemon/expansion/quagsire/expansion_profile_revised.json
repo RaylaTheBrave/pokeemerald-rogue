@@ -11,11 +11,11 @@
       ],
       "BaseStats": {
         "HP": 160,
-        "Attack": 95,
+        "Attack": 85,
         "Defense": 95,
         "Speed": 30,
         "SpAttack": 35,
-        "SpDefense": 85
+        "SpDefense": 75
       }
     }
   },
