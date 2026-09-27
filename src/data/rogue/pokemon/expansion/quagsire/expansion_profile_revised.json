@@ -1,5 +1,6 @@
 {
   "BuildSettings": {
+    "LevelUpMoves": "REPLACE",
     "TutorMoves": "MERGE"
   },
   "PerSpecies": {
@@ -19,6 +20,60 @@
       }
     }
   },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_AQUA_TAIL",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_BULLDOZE",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_RAIN_DANCE",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_AQUA_RING",
+      "Level": 20
+    },
+    {
+      "Move": "MOVE_YAWN",
+      "Level": 23
+    },
+    {
+      "Move": "MOVE_POISON_TAIL",
+      "Level": 28
+    },
+    {
+      "Move": "MOVE_BULK_UP",
+      "Level": 34
+    },
+    {
+      "Move": "MOVE_AMNESIA",
+      "Level": 40
+    },
+    {
+      "Move": "MOVE_AQUA_JET",
+      "Level": 42
+    },
+    {
+      "Move": "MOVE_TOXIC",
+      "Level": 46
+    },
+    {
+      "Move": "MOVE_LIQUIDATION",
+      "Level": 48
+    },
+    {
+      "Move": "MOVE_EARTHQUAKE",
+      "Level": 52
+    },
+    {
+      "Move": "MOVE_ACID_ARMOR",
+      "Level": 60
+    }
+  ],
   "TutorMoves": [
     "MOVE_BULK_UP"
   ]
