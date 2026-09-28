@@ -1,0 +1,31 @@
+{
+ "BuildSettings": {
+    "LevelUpMoves": "MERGE"
+  },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_POWER_UP_PUNCH",
+      "Level": 15
+    },
+    {
+      "Move": "MOVE_ROCK_TOMB",
+      "Level": 19
+    },
+    {
+      "Move": "MOVE_PROTECT",
+      "Level": 23
+    },
+    {
+      "Move": "MOVE_PARTING_SHOT",
+      "Level": 26
+    },
+    {
+      "Move": "MOVE_DETECT",
+      "Level": 35
+    },
+    {
+      "Move": "MOVE_DYNAMIC_PUNCH",
+      "Level": 51
+    }
+  ]
+}
