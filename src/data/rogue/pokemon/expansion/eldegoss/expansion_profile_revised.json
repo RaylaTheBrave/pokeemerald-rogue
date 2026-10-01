@@ -1,5 +1,6 @@
 {
   "BuildSettings": {
+    "LevelUpMoves": "MERGE",
     "TutorMoves": "MERGE",
     "CompetitiveSets": "MERGE"
   },
@@ -15,6 +16,24 @@
       }
     }
   },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_SPORE",
+      "Level": 26
+    },
+    {
+      "Move": "MOVE_STRENGTH_SAP",
+      "Level": 32
+    },
+    {
+      "Move": "MOVE_RAGE_POWDER",
+      "Level": 36
+    },
+    {
+      "Move": "MOVE_SPICY_EXTRACT",
+      "Level": 56
+    }
+  ],
   "TutorMoves": [
     "MOVE_FRUSTRATION",
     "MOVE_TOXIC",
