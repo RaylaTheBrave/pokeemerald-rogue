@@ -1,8 +1,18 @@
 {
  "PerSpecies": {
+    "SPECIES_SCOLIPEDE": {
+      "BaseStats": {
+        "HP": 70,
+        "Attack": 100,
+        "Defense": 89,
+        "Speed": 112,
+        "SpAttack": 55,
+        "SpDefense": 69
+      }
+    },
     "SPECIES_SCOLIPEDE_MEGA": {
       "BaseStats": {
-        "HP": 60,
+        "HP": 70,
         "Attack": 140,
         "Defense": 159,
         "Speed": 62,
