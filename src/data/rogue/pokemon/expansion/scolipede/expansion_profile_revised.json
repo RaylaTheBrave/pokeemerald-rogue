@@ -1,4 +1,8 @@
 {
+ "BuildSettings": {
+    "LevelUpMoves": "REPLACE",
+    "TutorMoves": "MERGE"
+  },     
  "PerSpecies": {
     "SPECIES_SCOLIPEDE": {
       "BaseStats": {
@@ -24,5 +28,87 @@
         "TYPE_POISON"
       ]
     }
-  }
+  },
+  "LevelUpMoves": [
+    {
+      "Move": "MOVE_POISON_STING",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_DEFENSE_CURL",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_PROTECT",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_ROLLOUT",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_BATON_PASS",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_IRON_DEFENSE",
+      "Level": 1
+    },
+    {
+      "Move": "MOVE_POISON_TAIL",
+      "Level": 12
+    },
+    {
+      "Move": "MOVE_SCREECH",
+      "Level": 16
+    },
+    {
+      "Move": "MOVE_BUG_BITE",
+      "Level": 20
+    },
+    {
+      "Move": "MOVE_IRON_HEAD",
+      "Level": 24
+    },
+    {
+      "Move": "MOVE_VENOSHOCK",
+      "Level": 26
+    },
+    {
+      "Move": "MOVE_TAKE_DOWN",
+      "Level": 34
+    },
+    {
+      "Move": "MOVE_GYRO_BALL",
+      "Level": 36
+    },
+    {
+      "Move": "MOVE_AGILITY",
+      "Level": 42
+    },
+    {
+      "Move": "MOVE_TOXIC",
+      "Level": 50
+    },
+    {
+      "Move": "MOVE_VENOM_DRENCH",
+      "Level": 58
+    },
+    {
+      "Move": "MOVE_SHELTER",
+      "Level": 62
+    },
+    {
+      "Move": "MOVE_DOUBLE_EDGE",
+      "Level": 66
+    },
+    {
+      "Move": "MOVE_MEGAHORN",
+      "Level": 74
+    }
+  ],
+  "TutorMoves": [
+    "MOVE_HARD_PRESS",
+    "MOVE_METEOR_MASH"
+  ]
 }
