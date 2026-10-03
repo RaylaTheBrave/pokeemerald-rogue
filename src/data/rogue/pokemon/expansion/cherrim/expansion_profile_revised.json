@@ -8,9 +8,9 @@
     "SPECIES_CHERRIM": {
       "BaseStats": {
         "HP": 70,
-        "Attack": 107,
+        "Attack": 97,
         "Defense": 110,
-        "Speed": 40,
+        "Speed": 50,
         "SpAttack": 50,
         "SpDefense": 123
       }
