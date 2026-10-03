@@ -27,9 +27,9 @@
         "TYPE_FAIRY"
       ],
       "Abilities": [
-        "ABILITY_MAGIC_GUARD",
-        "ABILITY_MAGIC_GUARD",
-        "ABILITY_MAGIC_GUARD"
+        "ABILITY_DEFIANT",
+        "ABILITY_DEFIANT",
+        "ABILITY_DEFIANT"
       ]
     }
   },
