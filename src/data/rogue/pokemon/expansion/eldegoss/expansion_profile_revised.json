@@ -13,7 +13,11 @@
         "Speed": 60,
         "SpAttack": 90,
         "SpDefense": 120
-      }
+      },
+      "Types": [
+        "TYPE_GRASS",
+        "TYPE_FAIRY"
+      ]
     }
   },
   "LevelUpMoves": [
@@ -50,6 +54,10 @@
       "Level": 23
     },
     {
+      "Move": "MOVE_DAZZLING_GLEAM",
+      "Level": 24
+    },
+    {
       "Move": "MOVE_SPORE",
       "Level": 26
     },
@@ -84,6 +92,10 @@
     {
       "Move": "MOVE_SPICY_EXTRACT",
       "Level": 56
+    },
+    {
+      "Move": "MOVE_MOONBLAST",
+      "Level": 60
     }
   ],
   "TutorMoves": [
