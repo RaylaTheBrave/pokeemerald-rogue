@@ -8,31 +8,35 @@
     "SPECIES_CHERRIM": {
       "BaseStats": {
         "HP": 70,
-        "Attack": 100,
-        "Defense": 70,
-        "Speed": 90,
-        "SpAttack": 87,
-        "SpDefense": 83
+        "Attack": 107,
+        "Defense": 110,
+        "Speed": 40,
+        "SpAttack": 50,
+        "SpDefense": 123
       }
     },
     "SPECIES_CHERRIM_SUNSHINE": {
       "BaseStats": {
         "HP": 70,
-        "Attack": 100,
-        "Defense": 70,
-        "Speed": 90,
-        "SpAttack": 87,
-        "SpDefense": 83
-      }
+        "Attack": 50,
+        "Defense": 60,
+        "Speed": 110,
+        "SpAttack": 137,
+        "SpDefense": 73
+      },
+      "Types": [
+        "TYPE_GRASS",
+        "TYPE_FIRE"
+      ]
     }
   },
   "LevelUpMoves": [
     {
-      "Move": "MOVE_PETAL_DANCE",
+      "Move": "MOVE_MEGA_DRAIN",
       "Level": 0
     },
     {
-      "Move": "MOVE_PETAL_DANCE",
+      "Move": "MOVE_MEGA_DRAIN",
       "Level": 1
     },
     {
@@ -52,12 +56,16 @@
       "Level": 1
     },
     {
-      "Move": "MOVE_GROWTH",
+      "Move": "MOVE_FLOWER_SHIELD",
       "Level": 7
     },
     {
       "Move": "MOVE_LEECH_SEED",
       "Level": 10
+    },
+    {
+      "Move": "MOVE_EMBER",
+      "Level": 12
     },
     {
       "Move": "MOVE_HELPING_HAND",
@@ -80,6 +88,10 @@
       "Level": 22
     },
     {
+      "Move": "MOVE_WILL_O_WISP",
+      "Level": 28
+    },
+    {
       "Move": "MOVE_WORRY_SEED",
       "Level": 30
     },
@@ -96,12 +108,28 @@
       "Level": 43
     },
     {
+      "Move": "MOVE_HEAT_WAVE",
+      "Level": 46
+    },
+    {
+      "Move": "MOVE_FIRE_LASH",
+      "Level": 46
+    },
+    {
       "Move": "MOVE_LUCKY_CHANT",
       "Level": 48
     },
     {
       "Move": "MOVE_PETAL_BLIZZARD",
       "Level": 50
+    },
+    {
+      "Move": "MOVE_PETAL_DANCE",
+      "Level": 50
+    },
+    {
+      "Move": "MOVE_FIERY_DANCE",
+      "Level": 62
     }
   ],
   "TutorMoves": [
