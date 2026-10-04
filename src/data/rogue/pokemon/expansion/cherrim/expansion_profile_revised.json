@@ -8,21 +8,21 @@
     "SPECIES_CHERRIM": {
       "BaseStats": {
         "HP": 70,
-        "Attack": 97,
-        "Defense": 110,
-        "Speed": 50,
-        "SpAttack": 50,
-        "SpDefense": 123
+        "Attack": 83,
+        "Defense": 137,
+        "Speed": 30,
+        "SpAttack": 60,
+        "SpDefense": 120
       }
     },
     "SPECIES_CHERRIM_SUNSHINE": {
       "BaseStats": {
         "HP": 70,
-        "Attack": 50,
+        "Attack": 30,
         "Defense": 60,
-        "Speed": 110,
+        "Speed": 120,
         "SpAttack": 137,
-        "SpDefense": 73
+        "SpDefense": 83
       },
       "Types": [
         "TYPE_GRASS",
