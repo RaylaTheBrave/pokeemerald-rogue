@@ -9,6 +9,11 @@
       "Types": [
         "TYPE_WATER",
         "TYPE_FAIRY"
+      ],
+      "Abilities": [
+        "ABILITY_MARVEL_SCALE",
+        "ABILITY_CUTE_CHARM",
+        "ABILITY_MULTISCALE"
       ]
     }
   },
