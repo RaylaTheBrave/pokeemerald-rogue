@@ -133,6 +133,7 @@
     }
   ],
   "TutorMoves": [
+    "MOVE_AFTER_YOU",
     "MOVE_X_SCISSOR"
   ],
   "CompetitiveSets": [
