@@ -15,9 +15,9 @@
     },
     "SPECIES_MEOWSTIC_MALE_MEGA": {
       "Abilities": [
-        "ABILITY_PSYCHIC_SURGE",
-        "ABILITY_PSYCHIC_SURGE",
-        "ABILITY_PSYCHIC_SURGE"
+        "ABILITY_DAZZLING",
+        "ABILITY_DAZZLING",
+        "ABILITY_DAZZLING"
       ],
       "BaseStats": {
         "HP": 80,
