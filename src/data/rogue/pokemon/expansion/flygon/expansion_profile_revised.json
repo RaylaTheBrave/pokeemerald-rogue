@@ -7,7 +7,7 @@
   "PerSpecies": {
     "SPECIES_FLYGON": {
       "Abilities": [
-        "ABILITY_LEVITATE",
+        "ABILITY_SAND_STREAM",
         "ABILITY_TINTED_LENS",
         "ABILITY_MEMBRANE"
       ],
